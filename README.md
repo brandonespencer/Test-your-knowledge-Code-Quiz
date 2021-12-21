@@ -4,3 +4,4 @@ This is a quiz app using HTML, CSS, and Javascript. This app uses Javascript to 
 
 <img width="1097" alt="Screen Shot 2021-12-20 at 5 29 37 PM" src="https://user-images.githubusercontent.com/46231696/146855487-3d04b6a2-d15b-4071-bcca-a6743facd585.png">
 <img width="1254" alt="Screen Shot 2021-12-20 at 5 28 36 PM" src="https://user-images.githubusercontent.com/46231696/146855502-b841e221-7848-4335-b437-72a36f870cbc.png">
+<img width="1155" alt="Screen Shot 2021-12-20 at 5 32 52 PM" src="https://user-images.githubusercontent.com/46231696/146855652-9b64f197-dafe-4742-9b7e-f48eb2bc1fae.png">
